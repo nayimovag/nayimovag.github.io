@@ -1,0 +1,21 @@
+h1 {
+  color: white;
+  text-align: center;
+}
+p{
+	color: white;
+	font-family: "Courier new";
+}
+ul, ol{
+	color: white;
+	font-family: "Courier new";
+}
+h3{
+	color: white;
+}
+body{
+	background-color: #2C1320;
+}
+b{
+	color: #EE4266;
+}
